@@ -8,10 +8,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 11 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Transformice. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
+- 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 12 anos de idade, quando queria criar uma função em um command block jogando Minecraft. Depois, aos 15 anos tive minha primeira oportunidade de ingressar no mercado de tecnologia. Um começo confuso em que não sabia ao certo em qual nicho me alocaria, com isso acumulei grande conhecimento generalista, que me ajuda e muito na tomada de decisões como desenvolvedor full stack. Desde então, com base nos valores e princípios que me guiam - decidi ser um programador.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Fórmula 1, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 💪🏼 &nbsp; Sou apaixonado por esportes, especialmente por musculação, e costumo variar com movimento, calistenia, corrida. É minha principal terapia rs
+- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e economia.
+- 📖 &nbsp; Sou fã de leitura, porque me ajuda a expandir minha visão, me encoraja e faz eu construir uma opinião e valores sólidos com base em biografias de empresários e pessoas que chegaram onde quero chegar.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
