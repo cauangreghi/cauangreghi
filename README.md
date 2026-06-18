@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Oi, eu sou o Cauan, Engenheiro de Backend, Dados e IA com uma ambição gigante!</h1>
 <p align="center">
 <a href="https://instagram.com/cauangregui"><img src="https://img.shields.io/badge/-@cauangregui_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cauan-gregui-vivan"><img src="https://img.shields.io/badge/-Cauan%20Gregui%20Vivan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cauangregui"><img src="https://img.shields.io/badge/-Cauan%20Gregui%20Vivan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cauangreghi@gmail.com"><img src="https://img.shields.io/badge/-cauangreghi@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
