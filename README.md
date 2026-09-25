@@ -1,42 +1,95 @@
-<h1>👋 &nbsp;Oi, eu sou o Cauan, Engenheiro de Backend, Dados e IA com uma ambição gigante!</h1>
+<div align="center">
+
+# cauangreghi / README.md
+
+</div>
+
+```
+                        @@%%%%%%%%%%%%@                            cauan@dev
+                           @@@%%%@@@@@@@@@@                        ---------
+                             @@%%%####%%@@@                        OS: ............................. Backend, Dados & IA
+                       @%##*++===-::::--=+#%%                      Host: ............................ GVC Soluções em Cobrança
+                      %##*++=--:::::::::--=#%%                     Uptime: ........................... ~7 anos de experiência
+                     @%#**++==--::::::::---+%                      Kernel: ........................... Python · Go · C#/.NET
+                     %%%######*+=-----==++++%                      Shell: ............................. FastAPI · LangGraph
+                    ##%@@@%%@@@@#*++*#%%#**#                       
+                @% ##%%@@@@%%%%%#+--*%%###*+                       Location: .......................... Brazil
+              @@@%#*#%#***+++==+*+-:--==+==-+                      Education: ......................... Eng. de Computação (UNIVESP)
+               @@%#**##*++=---+***+==--:::--+                      
+                %@%**#%%#*++==#%@@@%%+-----=                       Languages.Programming: ............. Python, Go, C#, TypeScript
+                  %###%%%%#***#%%***#+=====+                       Cloud.AWS: .......................... S3, Glue, Athena, Iceberg
+                   %%%%@@%%@@@%%#*++*#%%*++%                       AI/LLM: ............................. LangGraph, Anthropic SDK
+                    %#%@@@@%#####%#*+=+##*#                        
+                    %%%@@@@@@%##**+==+*###                         - Contact -----------------------------------------------------
+                    #%%@@@@@@@@@%%#%%%@@%#=                        Email: .............................. cauangreghi@gmail.com
+                     #%%@@@@@@@@@@@@@@%#+-.-                       LinkedIn: ............................ /in/cauangregui
+                     #%%@@@@@@%%%%%%%#*+-... .                     Instagram: ........................... @cauangregui_
+                   #@%#@@@@@@%%%%%%%#*+-....:=:...::-
+                   %@@#%@@@@@@@@@%%#*=:....-=:..........:=
+                   %@@@%@@@@@@@@%#*+=....:=-.................:-
+                     @@@@@@%%@%%*+=:...:=-:...........:.........
+                      @@@@%%%%#++ =--===:.......::::.:..........
+                        ####*+        -:........::::::..........
+     =                    +      == =::::.....::::::-:.:.::.....
+    -=                      ----::::::::..::::::::::-:::::::::::
+```
+
 <p align="center">
 <a href="https://instagram.com/cauangregui"><img src="https://img.shields.io/badge/-@cauangregui_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/cauangregui"><img src="https://img.shields.io/badge/-Cauan%20Gregui%20Vivan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cauangreghi@gmail.com"><img src="https://img.shields.io/badge/-cauangreghi@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
+## 👨🏻‍💻 &nbsp;Sobre mim
 
-- 🚀 &nbsp; Sou um Engenheiro de IA, Dados e Backend com 6 anos de experiência, especializado no desenvolvimento de sistemas escaláveis, arquiteturas de dados em nuvem e automações inteligentes de alto impacto.
-- 💡 &nbsp; Minha jornada começou aos 12 anos, programando em Minecraft, e aos 15 tive minha primeira oportunidade no mercado de tecnologia. Essa base generalista me ajuda a tomar decisões estratégicas e a construir soluções robustas.
-- 🧠 &nbsp; Tenho expertise sólida em Python, C#, Node.js e TypeScript, com foco na construção de APIs REST, pipelines ETL/ELT e gerenciamento de Data Lakehouses (arquitetura Medallion – Bronze/Silver/Gold). Sou especialista em orquestração de workflows com Apache Airflow e integrações cloud-native em AWS, utilizando serviços como S3, Glue, Athena, Lambda, EMR, Aurora PostgreSQL, SQS e SNS.
-- 🤖 &nbsp; Atualmente, meu foco principal é em aplicações de IA generativa, integrando LLMs, arquiteturas RAG (Retrieval-Augmented Generation) e fluxos agenticos para automação e eficiência operacional. Desenvolvi, por exemplo, um agente de negociação inteligente para recuperação de crédito, utilizando LangGraph e OpenAI SDK.
-- ☁️ &nbsp; Possuo experiência prática com Infraestrutura como Código (IaC) e ferramentas como CloudFormation, garantindo a automação e escalabilidade de ambientes em nuvem. Também trabalho com EventBridge para arquiteturas orientadas a eventos, otimizando a comunicação entre serviços.
-- 💪🏼 &nbsp; Sou apaixonado por esportes, especialmente musculação, e costumo variar com movimento, calistenia e corrida. É minha principal terapia!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e economia, sempre buscando expandir meu conhecimento nessas áreas.
-- 📖 &nbsp; Sou fã de leitura, pois me ajuda a expandir minha visão, me encoraja e me permite construir opiniões e valores sólidos com base em biografias de empreendedores e pessoas que admiro.
+- 🚀 &nbsp; Engenheiro de Backend, Dados e IA com ~7 anos de experiência, atuando hoje como Data/AI Engineer na **GVC Soluções em Cobrança**, com passagens anteriores pela GubolinCo (30+ projetos em produção com C#/.NET Core 6/8), RNI SA e Netspeed Tecnologia em Sistemas.
+- 🧠 &nbsp; Construo sistemas escaláveis e pipelines de dados em Python, Go e C#/.NET, com foco em APIs (FastAPI), arquiteturas em nuvem (AWS — S3, Glue, Athena) e Data Lakehouses governados com Apache Iceberg.
+- 🤖 &nbsp; Foco atual em IA aplicada: agentes com LangGraph e Anthropic SDK, design de Agent Skills usando o framework AWS AIDLC com validação qualitativa/quantitativa de confiabilidade.
+- 📈 &nbsp; Alguns resultados recentes: redesenho de ingestão + compactação + migração para Apache Iceberg em um Data Lakehouse AWS, reduzindo em ~50% o custo operacional diário da plataforma; refatoração de workflows síncronos em execução paralela/concorrente; automação de fluxo jurídico (web scraping + APIs internas + pipelines de dados) com ROI em 2 semanas; redução de 90% no tempo de processamento via refatoração para arquitetura distribuída.
+- 🛠 &nbsp; Também tenho experiência com NoSQL (DynamoDB, MongoDB, Redis), Airflow, Streamlit, DuckDB, PyIceberg, Pydantic, Selenium/Playwright e React (~3 anos combinados, em RNI SA e GubolinCo).
+- 🎯 &nbsp; Em transição para uma posição sênior focada em backend com Go em ambientes de produção — atualmente desenvolvendo um projeto pessoal com Go + RabbitMQ.
+- 🎓 &nbsp; Cursando Engenharia de Computação na UNIVESP.
+- 💪🏼 &nbsp; Fora do código: musculação, calistenia e corrida — minha principal terapia — além de interesse forte em investimentos, mercado financeiro e leitura.
 
-<h2> 🛠 &nbsp;Minha Stack de Tecnologia</h2>
+## 🛠 &nbsp;Stack
 
-<h3>⚙️ &nbsp;Backend, Dados e Nuvem:</h3>
+**Linguagens & Backend**
 
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Dados & Nuvem**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-1A73E8?style=flat&logo=apache&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**IA & Automação**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20SDK-191919?style=flat&logo=anthropic&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+
+**Infra & Ferramentas**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+## 📊 &nbsp;Estatísticas
 
 ![Cauan Gregui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauangreghi&show_icons=true&theme=dracula)
