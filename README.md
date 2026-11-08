@@ -4,35 +4,11 @@
 
 </div>
 
-```
-                        @@%%%%%%%%%%%%@                            cauan@dev
-                           @@@%%%@@@@@@@@@@                        ---------
-                             @@%%%####%%@@@                        OS: ............................. Backend, Dados & IA
-                       @%##*++===-::::--=+#%%                      Host: ............................ GVC Soluções em Cobrança
-                      %##*++=--:::::::::--=#%%                     Uptime: ........................... ~7 anos de experiência
-                     @%#**++==--::::::::---+%                      Kernel: ........................... Python · Go · C#/.NET
-                     %%%######*+=-----==++++%                      Shell: ............................. FastAPI · LangGraph
-                    ##%@@@%%@@@@#*++*#%%#**#                       
-                @% ##%%@@@@%%%%%#+--*%%###*+                       Location: .......................... Brazil
-              @@@%#*#%#***+++==+*+-:--==+==-+                      Education: ......................... Eng. de Computação (UNIVESP)
-               @@%#**##*++=---+***+==--:::--+                      
-                %@%**#%%#*++==#%@@@%%+-----=                       Languages.Programming: ............. Python, Go, C#, TypeScript
-                  %###%%%%#***#%%***#+=====+                       Cloud.AWS: .......................... S3, Glue, Athena, Iceberg
-                   %%%%@@%%@@@%%#*++*#%%*++%                       AI/LLM: ............................. LangGraph, Anthropic SDK
-                    %#%@@@@%#####%#*+=+##*#                        
-                    %%%@@@@@@%##**+==+*###                         - Contact -----------------------------------------------------
-                    #%%@@@@@@@@@%%#%%%@@%#=                        Email: .............................. cauangreghi@gmail.com
-                     #%%@@@@@@@@@@@@@@%#+-.-                       LinkedIn: ............................ /in/cauangregui
-                     #%%@@@@@@%%%%%%%#*+-... .                     Instagram: ........................... @cauangregui_
-                   #@%#@@@@@@%%%%%%%#*+-....:=:...::-
-                   %@@#%@@@@@@@@@%%#*=:....-=:..........:=
-                   %@@@%@@@@@@@@%#*+=....:=-.................:-
-                     @@@@@@%%@%%*+=:...:=-:...........:.........
-                      @@@@%%%%#++ =--===:.......::::.:..........
-                        ####*+        -:........::::::..........
-     =                    +      == =::::.....::::::-:.:.::.....
-    -=                      ----::::::::..::::::::::-:::::::::::
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img src="./assets/profile-light.svg" alt="Cauan Gregui Vivan — retrato ASCII e perfil de Backend, Dados e IA" width="100%">
+</picture>
 
 <p align="center">
 <a href="https://instagram.com/cauangregui"><img src="https://img.shields.io/badge/-@cauangregui_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>

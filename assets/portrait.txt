@@ -1,0 +1,68 @@
+
+                                              MHHHGGGGHHHMMMhMMMMH
+                                    MMMHHGGHHHHGS#GSGG###SGHHHHM33MHHMMMMM
+                                 MMHHHHG#99B9SHG##9#GHGHGGHMMHHMhh3hHGHHHHMMMMMMMMM
+                             MHS#####9#SSSS#9#GGMHS##9#SGSSGHGHHHGMhhMHGSSSGHHMMMMMMMM
+                          MHHSB999999999##SS####SGGSGGSGSHHSSSSS##SSGGGGS#9##9SGHHHHHMMM
+                       MHGS999#SSSSSSSGSSSSHHMGHS9B9#GHHHHGSSS#99BBBB99999999BB&B99#SGHMMMM
+                    MMH#BBBBB999B9BB######SS#GGHMMMG#BB9#SGS###9#999B&&&BBBBB99B&&BBBB#SGMMMM
+                   MG#BBB9BBBBBBB&&&&B99#####BBBB#GHhhHS9BB9SSS#999BB9#&@&&BB&9BBB&BBBBB9GMMMG
+                 MG9B9BBBBB&&&@@@@@@@@&&BBBB9999BB&BB#SHMMS9BB9#9BBBB&99&&&&&&BBBB&&BB9&B#HMHG
+               MG#&&BB&BBB&&&@@@@@@@@@@@@@@&&@&&&BBB99BB#GGS#9BBBBBBBB&BBB&&&&&&BBBB&99&BBGMGHM
+             MG#BBB&&&&BB&@@@@@@@@@@@@@@@@@@@&@@&&&BB9S#9B#SSGSS####99BBBBBBBBBBBBBBBBBBBB#SHMM
+           MG#9B&&@@@&B&&&&@@@@@@@@@@@@@@@@@@&&&&BBB99#S####SGGMhhhhMMMHGSS###9BBBBBBBBBBBSHMMM
+          G9B&&&@@@@@@@B&&&@@@@@@@@@&&&&BB99###SSSGGGHHHHHMh32XriiiiiiirrsXA225hH#999BB&&B#GHHHH
+         GB&&&&&@@@@@@@&&&@@@@@@@&BB9#SGHHMh355222AAAAAAXXsri;,......,,,,,::;;iirX3HSSSGGS#99SMM
+         B&BB&&&@@@@@@@@&@@@@&&B9#SHMh3352AXXsrrriii;;;;::::,,,.  ......,,,,:::;;;is5MM33hMHG#SH
+        B&&B&&@@@@@@@@@&@@@&B9#SGHh35222AAXssrrrii;;:::::::,,,... .......,,,,,::;;;;iXhHMGGSGMMG
+       #&&&&&&@@@@@@@@@@@&B9#GMMMh3522AAAXXXssrrii;;:::,,,::,,,,.........,,,,,:::;;;;ishHHG#B9h
+       #&&&&&&&@@&@@@@@@&B9#GHMMhh3522AAAXXXsrriii;;:::,,,,,,,,............,,,::::;;;iis5MHHSB9
+       #&&&&&&&&&&&&&&&&BB9#SGHMMhh352AAAXXssrrii;;;:::,,..,,,,............,,,::::;;;;irs5HGHSS
+       #@&&&&&&&&&BBBBBBBB9#SGHMhh33522AAAAXXsrii;;:::,,,,,.,.............,,,,,:::;;;iiir2MGHGS
+       S&&&&&&&&&&BBBBBBB9##SGHHMh33522AAAAXXXsrii;;::,,,.......  ..........,,,,:::;;iiiiAMHGH
+       S&&&&&&&&B&BBBB999##SGGHHMh35522AAAAAAAXssrri;;::,..  ..   . .. ......,,,::::;;iiiXMGGH
+       H&&&&&&&&&BBBB9#SSSGGHHHMhh52AAAAAAAAAAAAXXsssrii;;:,...       ...,,,,::::;;;;;;iisMGHH
+      hH&&&&&BBBBBBB9SHHHHHHHHHMhh333hh333333335522AAXssri;;::::,,,::::;;;;;;;iiiiirrrriir3SH
+      hMB&&&BBBBBBBB#HhhhMHHHHGGSS###S##999#9###SGHMh35AXsrriiiii;;;iirrrssXA225333h5552Xr59G
+      hM9&BB9BBBBB99Sh3hMMMMHG#9BBB99##999BBB&&&&&&9#SGh52XXssXsssrsrsXX23MGGGGG###SGHMHH33#G
+      hM9BBB999BB9B9H3hhMMMMGS#99999#SGHMMHG#9BBBBBBBB9#HM355252222AAA53MS9B9999SM35hhhhHSGSM
+      hM#BB99#99999#M3hMMMhMHGS#####SGHHMhhhMHS#99######SSGHMMhhh33h3hMHGGSSSHh5XsrrssXAA5hGM
+      hh#B99##9#999G3hhMHHMMHGS##9999999999#SSS9BBB99#####SGh2XssX23MMHHGGSGH32XXA252AAXX2AhM
+      hMSBBB####99#h5hhHGGGSS#999BB&@&&&BB9#&@@@@&@@&BB99#GhAi:..:i2MGSS#SSGHMMhMHHGSHh52Ar2M
+     MS99#9B#HHS#9G533MGSS#999BB&&&&BB9#SGHMGGGGGS#B9BBSMMh2si:,.,;r5HSSSGGHHS@@@&999#Gh2XiAH
+     #&&&&B##GMM#9M55hMGSS########999#SSHMMhhh3553553M32A22Asi;:,,;;isXX23552A23353hh332sris3
+    S&B&&&&&GHhh##h22hHGSSSGGHMMMHGGGGGGGHHHMh35AXssssXXA222Ari;:,:;;;:is23h33355222srii;iirX3
+   h9BB&BBB&#HhhSH522hMHGHHMh3555335AXXsssrrriii;;iirXAA22552Xsi:::;;;;:::;irssXXssri;;:;;;s52
+   h#BB&B9BBBBGhGM5253MHHHMh352AAXXXssi;;;;;;;;;;;;isA253335Asri;;:;;;;:,,,,,,,,,,:::::::;;s2A
+   3HBB99BB&@@#MH32253hMHHMhh55222AXXXrii;;;;;::::;iX5hh3352Xsri:,.,:;ii;,,.,,,,.,,::::::;;rXX
+   hhSBS#B&&&#HMh552555hHHHMMh55522AAXsrrii;;::::;ir2h322222AAXrii:,:;;iri:,.,,,,,,::;;:;;;rs
+   h3h9GS&&B&GGh55552225hHHHHMh3522AAXssrriii;;;;irAMh2A23MHGGHh55AXssriirri:,,,,,::::;;;;ir2
+    h3M#SGG#9B#M53335AA23MHGGHHMh3352AAXssrrriirrsXhSHHHHHS9BB#SGGMhMM5Xiirri;:,,::::;;;;;ish
+    hh3M#MMS99B#hh3352A23hMHGGGGHMhh352AAXXsssrsss2S9#99B&@@@@B9##9&@&#H3sisri;;;;;;;;;;;iiX
+    hhh33G9##99&Shh3552253MHGGSSSGHHMh3522AAAXXsrXhSB&&@@@@@&&&&&BBB&&BGX::;ssriiiii;;;;iir2
+     hhh3M###99BBHhh352553MHHGSSSSSGHHh33552AXsssA3HS##99B999##SSh3hh33s::::;rssrriiiiiiirs
+      hhhhMG#9BB&9MMMh533hMHGGS###SSGGMMh352AXXAA253hHG###GM3333535352Xi;;;;:;rXssrrriirrsX
+            hMHGGGGHMh3hMMHGGGS####SSGHMMh35533h3MMhGS#SHh2siiirrsX5Mh552XXsssrrsssrrrrssA
+             33335HGMMhMGGGGSS#####SSGGHHHHHGS###9##9##GMMMMh52XXX23h53h33hMh3h2XsXsrsssX3
+              hhh3MSHMHMGGSS#######SSGGG##9BBB&&&B&B&BB9SHh3hMhhhMhhhHGHMMS##SGHhAssrrsA5H
+              3hh33GGMHMHGGS###999##SSS9B&&&&&&@&&9#SGM352Xri;;;;;;irA2hG9&BB99SH3ssssA3MH
+               hhh3MSGHHhMHS##99999###9&&B&B#SGHHMhhhMHHHHMMhh3522222XssrX3S9B9BS5XXX233M
+                hh3hGGMMhhMGS##999999BBBBBSMh3333333hhMGSS9BBBBBB9SH3AXriiiXH99#M2A22535h
+                 h33HGMMMMHHGS##9BBBBBBBB#Hhhhhhhhhhh33h3hMHHSGhh32AXsrirris5MHh55h5522hh
+                 3h3hHGHHHHSSS##999BBBBBB##GGHHHMMhh335533hMMh5AAsrrrrrrsXssXAA555h32AhGh
+                  h33MGSGSGSS####99BBBBBBB9#SSGHGHh352253M3552AAsiiir;;rA55XA55h35335hGMh
+                   h3hMS##GGSGSS#9BBBBBBBB9B9###SHh33353h3222AAXrrrssr;r2hhhhHHMh333HSGh
+                   h3hMHG#9###S#999BBBBBBBB&BBB99SHHGMMMh33552AAAXXA2XXX5hhGS#SHh3hS9#H
+                    33MHHGS9BB9999BBBB&&&BB&&&BBB##9#S#GHMhhh3353553h335MMG#S#9GHG#SH5
+                     3hMHGHG#B&BBBBBB&&&&&&&&&&&&&B&9B9##GGGGGHHHHMGHGHMSS9B##9S###M5,
+                     3hMHGGGGG#9B&B&B&&&&&&&&&&&&&&&&&99B#S###S##S#99#9S##BBB9BBSHh3X  i
+                      hMHHGSSGGGS9BB&B&&&&&&&&&&&&@@&&&BB&9999B999BBBB9SBBBB9#Gh2XXX:   rh
+                      3hMHGSSSSSS#9BBB&&B&&&&&B&&&&&&&&&&B9BBBBB9BBB#S#9BB99GM5AssXi     ,X3
+                      3hMHGGSSS#SS##99BBB&&&B&&&&&&B&&&B&BB&&&BBBBB99BB99#SHh5AXsXr        .;sA
+                       hhMHGSSS####S##999BBBBB&BBB&BB999999##999B9999##SSHM35AXsXs.             .s
+                      GHhMHGGSS#####9#9BBBBBB9999##SSSSGHGGGG#####S#SSGGHM32AXsXs,               rSA
+                     G#9hhMHGS######999BBBB9999##SSSGGGGGGSSSSSSSSSGGGHMh32AXsXX,               ;Sr
+                   2HS9@H3MHGS###9#99#99999999###SSSGGGGGGSSGGSSSGGGGHMh352XXXs,               :#s
+                2AAMS#&@#hhMGS##999999##99999###SSGGGGGGGGSSSSSSSGGHHh3552AXAr.               ;Ss
+              22AX3GS9@@&HhMHS##999999999999####SSSSSSSSSSSSSSSSGGHMh5522AAAi.               iSr
+            3222XAHGSB@@&9hhHGS#999999999999####SSSSSSSSSSS#SSSGGHMh3522AAA;                iSs
