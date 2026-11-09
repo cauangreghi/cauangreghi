@@ -18,7 +18,7 @@
 
 ## 👨🏻‍💻 &nbsp;Sobre mim
 
-- 🚀 &nbsp; Engenheiro de Backend, Dados e IA com ~7 anos de experiência, atuando hoje como Data/AI Engineer na **GVC Soluções em Cobrança**, com passagens anteriores pela GubolinCo (30+ projetos em produção com C#/.NET Core 6/8), RNI SA e Netspeed Tecnologia em Sistemas.
+- 🚀 &nbsp; Backend/Data Engineer com 7 anos de experiência
 - 🧠 &nbsp; Construo sistemas escaláveis e pipelines de dados em Python, Go e C#/.NET, com foco em APIs (FastAPI), arquiteturas em nuvem (AWS — S3, Glue, Athena) e Data Lakehouses governados com Apache Iceberg.
 - 🤖 &nbsp; Foco atual em IA aplicada: agentes com LangGraph e Anthropic SDK, design de Agent Skills usando o framework AWS AIDLC com validação qualitativa/quantitativa de confiabilidade.
 - 📈 &nbsp; Alguns resultados recentes: redesenho de ingestão + compactação + migração para Apache Iceberg em um Data Lakehouse AWS, reduzindo em ~50% o custo operacional diário da plataforma; refatoração de workflows síncronos em execução paralela/concorrente; automação de fluxo jurídico (web scraping + APIs internas + pipelines de dados) com ROI em 2 semanas; redução de 90% no tempo de processamento via refatoração para arquitetura distribuída.
